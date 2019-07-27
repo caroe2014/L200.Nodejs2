@@ -1,0 +1,1 @@
+Mon Jul 22 2019 14:52:04 GMT+0000 (Coordinated Universal Time): Disabling Azure Drive logging after 43200000ms since it was enabled
